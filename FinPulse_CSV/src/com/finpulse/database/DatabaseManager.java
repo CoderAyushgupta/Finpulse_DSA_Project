@@ -14,7 +14,7 @@ public class DatabaseManager {
 
     private static final String USER = "postgres";
 
-    private static final String PASSWORD = "Tuit034911#.";
+    private static final String PASSWORD = "YOUR_POSTGRES_PASSWORD";
 
     // Connect to PostgreSQL
     public static Connection getConnection() throws SQLException {

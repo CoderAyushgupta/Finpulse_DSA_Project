@@ -1,0 +1,17 @@
+# IntelliJ
+.idea/
+*.iml
+
+# Build output
+out/
+
+# Logs
+*.log
+
+# Environment
+config.properties
+.env
+
+# OS files
+.DS_Store
+Thumbs.db
